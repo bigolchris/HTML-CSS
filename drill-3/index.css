@@ -1,0 +1,23 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+header {
+    display: flex;
+    width: 195vh;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: grey;
+}
+
+.box {
+    margin-right: 105em;
+    margin-bottom:90px;
+    /* margin-top:80px; */
+    justify-content: left;
+    width: 10%;
+    height: 100px;
+    background-color:aqua;
+}
